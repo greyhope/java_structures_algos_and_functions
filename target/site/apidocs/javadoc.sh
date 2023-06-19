@@ -1,1 +1,0 @@
-/home/ebe/jdk/jdk8/jre/../bin/javadoc @options @packages
