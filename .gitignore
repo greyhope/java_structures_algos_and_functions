@@ -6,3 +6,4 @@ target/**
 local.properties
 .classpath
 .settings/
+.project
